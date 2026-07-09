@@ -1,23 +1,21 @@
-School
-Private
-https://github.com/wachiiint/2025s2-AlgorithmDesign
+Chula Study
+https://github.com/wachiiint/ConnectFour - Java Game App *
+https://github.com/wachiiint/2025s2-AlgorithmDesign **
 https://github.com/wachiiint/2025s1-DataStructure
-https://github.com/wachiiint/2025s2-PAT_RECOG
+https://github.com/wachiiint/2025s2-PAT_RECOG **
 https://github.com/wachiiint/2025s1-DigLogicLab
 https://github.com/wachiiint/2025s2-OS_system
 https://github.com/wachiiint/2025s1-graphic
 https://github.com/wachiiint/2025s2-DatabaseSys
 https://github.com/wachiiint/2025s2-ComSysArch
-
-Public
-https://github.com/wachiiint/HardwareSynLab
+https://github.com/wachiiint/HardwareSynLab *
 
 Project
 Currently Private
-https://github.com/wachiiint/Home-Based-Markerless-Movement-Analysis-Subsystem
+https://github.com/wachiiint/Home-Based-Markerless-Movement-Analysis-Subsystem **
 
 Collab with friends
 Public
-https://github.com/haminic/rust-raytracer
+https://github.com/haminic/rust-raytracer ***
 Public
 https://github.com/Duckin99/GeneFace_TeacherModel
